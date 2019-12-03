@@ -1,10 +1,10 @@
 # Algebra-II-projects 
 experimental  
 
-[find any root of any number][1]  
+<a href="javascript:open('https://Root.raphaelspoerri.repl.run');">find any root of any number</a>
 [calculate exponents of imaginary numbers][2]  
-[solve a quadratic equation][3]
+[solve a quadratic equation]
 
-[1]:https://Root.raphaelspoerri.repl.run  
+
 [2]:https://findimaginarypow.raphaelspoerri.repl.run  
 [3]:https://QuadraticFormulaTool.raphaelspoerri.repl.run
