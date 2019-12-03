@@ -2,9 +2,8 @@
 experimental  
 
 <a onclick="open('https://Root.raphaelspoerri.repl.run');">find any root of any number</a>
-[calculate exponents of imaginary numbers][2]  
-[solve a quadratic equation]
+<a onclick="open('https://findimaginarypow.raphaelspoerri.repl.run');">calculate exponents of imaginary numbers</a>
+<a onclick="open('https://QuadraticFormulaTool.raphaelspoerri.repl.run');">solve a quadratic equation</a>
 
 
-[2]:https://findimaginarypow.raphaelspoerri.repl.run  
-[3]:https://QuadraticFormulaTool.raphaelspoerri.repl.run
+
